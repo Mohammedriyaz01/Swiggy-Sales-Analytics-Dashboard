@@ -145,9 +145,9 @@ Swiggy-Sales-Analytics-Dashboard
 
 AI & Data Science Student | Data Analytics Enthusiast | Power BI Developer | Python Developer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: [https://github.com/Mohammedriyaz01](https://github.com/Mohammedriyaz01)
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/mohammedriyaz01/)
 
 ---
 
